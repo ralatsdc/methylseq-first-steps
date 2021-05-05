@@ -1,0 +1,6 @@
+name: methylseq
+channels:
+  - bioconda
+dependencies:
+  - bismark
+  - samtools
