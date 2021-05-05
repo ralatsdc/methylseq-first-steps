@@ -1,3 +1,3 @@
 # methylseq-first-steps
 
-A set of alkane (or alkyl) molecules arranged in a particular order.
+The first few in a set of alkane (or alkyl) molecules that have been arranged in a particular order.
